@@ -1,0 +1,11 @@
+.App {
+  height: 100vh;
+}
+
+html, body {
+  min-height: 100%;
+}
+
+.container {
+  height: 100vh;
+}
